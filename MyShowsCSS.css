@@ -1,0 +1,130 @@
+html
+{
+	overflow: scroll;
+}
+
+
+body{
+	/*background-color: #FFAA40;*/
+	background-image: url('Pattern.jpg');
+}
+
+#SuperTitle
+{
+	margin: 20px 20px 20px 20px;
+	text-align: center;
+	float: center;
+	padding: 20px;
+	background-color: #9D0019;
+	font-style: bold;
+	color: white;
+	border: 10px solid gold;
+	border-style: dashed;
+	/*background-image: url('GOT.jpg');*/
+	opacity:0.9;
+}
+
+.Title
+{
+	font-size: 60px;
+	color: #FFA340;
+}
+
+.SubTitle
+{
+	font-size: 40px;
+	color: #F23D70;
+}
+
+#Shows
+{
+	margin: 20px 20px 20px 20px;
+	float: left;
+	background-color: #50026E;
+	text-align: left;
+	font-size: 30px;
+	font-family: arial;
+	font-style: bold;
+	color: #FF5C00;
+	padding: 20px;
+	border: 10px solid black;
+	border-style: groove;
+	border-radius: 40px 40px 40px 40px;
+	opacity:0.9;
+
+
+}
+#Search
+{
+	float: right;
+	background-color: #50026E;
+	font-size: 30px;
+	font-family: arial;
+	color: black;
+	font-style: bold;
+	padding: 20px;
+	margin: 20px 20px 20px 20px;
+	border: 10px solid black;
+	border-style: groove;
+	border-radius: 40px 40px 40px 40px;
+	opacity:0.9;
+}
+
+#searchBox
+{
+	background-color: #FFC840;
+	font-style: bold;
+	font-size: 30px;
+	color: black;
+}
+
+#Submit
+{
+	position: relative;
+	float: right;
+	background-color: #E366B5;
+	font-style: bold;
+	font-size: 30px;
+	color: black;
+}
+
+#Submit:hover
+{
+	background-color: #E20048;
+}
+
+#GOT
+{
+	margin: 20px 20px 20px 20px;
+	float: right;
+	background-color: black;
+	text-align: left;
+	font-size: 20px;
+	font-family: arial;
+	font-style: bold;
+	color: white;
+	padding: 20px;
+	border: 10px solid black;
+	border-style: groove;
+	border-radius: 40px 40px 40px 40px;
+	opacity:0.9;
+
+}
+
+#Sherly
+{
+	margin: 20px 20px 20px 20px;
+	float: right;
+	background-color: black;
+	text-align: left;
+	font-size: 20px;
+	font-family: arial;
+	font-style: bold;
+	color: white;
+	padding: 20px;
+	border: 10px solid black;
+	border-style: groove;
+	border-radius: 40px 40px 40px 40px;
+	opacity:0.9;
+
+}
